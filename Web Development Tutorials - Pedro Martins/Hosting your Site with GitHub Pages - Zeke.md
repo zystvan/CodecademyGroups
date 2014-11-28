@@ -25,4 +25,4 @@ It shouldn't take longer than 10-15 minutes before your site is live, however on
 
 If you can't get your site up following my instructions above, please reply below, and I'll try to help. 
 
-Also, read the [Github Pages help docs](https://pages.github.com/help)
+Also, read the [Github Pages help docs](https://help.github.com/categories/github-pages-basics/)
