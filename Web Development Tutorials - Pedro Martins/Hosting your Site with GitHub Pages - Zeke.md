@@ -9,7 +9,7 @@ This guide assumes you're running Linux (or using a command line), and you're go
 
  4. `cd` into your new folder. 
 
- 5. Copy/paste all of your files you want to show up into the folder named [*username*].github.io. For me, I've got an `index.html` and a `style.css` file, as well as a couple of photos: ![](http://s22.postimg.org/rr9h6pe1t/image.png) 
+ 5. Copy/paste all of your files you want to show up into the folder named [*username*].github.io. For me, I've got an `index.html` and a `style.css` file, as well as a couple of photos: ![](http://postimg.com/image/178000/4-177683.jpg) 
 
  6. Type in `git add --all`
 
