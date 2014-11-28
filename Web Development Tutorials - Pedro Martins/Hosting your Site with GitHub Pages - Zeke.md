@@ -1,4 +1,4 @@
-In this (unofficial) tutorial, we'll learn how to host a site with [Github Pages](https://pages.github.com/). 
+In this guide, we're going to learn how to host a site with [Github Pages](https://pages.github.com/). 
 This guide assumes you're running Linux (or using a command line), and you're going to need to be signed into [Github](https://github.com) for this to work. 
 
  1. Head into the upper right corner and add a new repository: ![](http://s13.postimg.org/ikhmpllsn/image.png)
@@ -24,3 +24,5 @@ If you ever need to update a file, repeat the last 3 steps, and your update will
 It shouldn't take longer than 10-15 minutes before your site is live, however once it's up and running, updates will generally be pushed within 30 seconds. 
 
 If you can't get your site up following my instructions above, please reply below, and I'll try to help. 
+
+Also, read the [Github Pages help docs](https://pages.github.com/help)
