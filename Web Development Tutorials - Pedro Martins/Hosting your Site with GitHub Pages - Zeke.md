@@ -1,7 +1,7 @@
 In this guide, we're going to learn how to host a site with [Github Pages](https://pages.github.com/). 
 This guide assumes you're running Linux (or using a command line), and you're going to need to be signed into [Github](https://github.com) for this to work. 
 
- 1. Head into the upper right corner and add a new repository: ![](http://s13.postimg.org/ikhmpllsn/image.png)
+ 1. Head into the upper right corner and add a new repository: ![](https://i.imgur.com/VVQnbCg.jpg)
 
  2. Name the repository [*your username*].github.io: ![](http://s27.postimg.org/5w0nlyw4j/image.png) You can see I'm getting an error message; that's because I'm already using Github Pages to host something else. Also, you need to check "Initialize this repository with a README", or it won't work. 
 
